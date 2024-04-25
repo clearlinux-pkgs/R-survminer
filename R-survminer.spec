@@ -7,7 +7,7 @@
 #
 Name     : R-survminer
 Version  : 0.4.9
-Release  : 1
+Release  : 2
 URL      : https://cran.r-project.org/src/contrib/survminer_0.4.9.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/survminer_0.4.9.tar.gz
 Summary  : Drawing Survival Curves using 'ggplot2'
